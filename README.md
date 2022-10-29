@@ -9,8 +9,6 @@ I'm Terel from Toronto, and I'm a software developer with a front-end focus. I f
 * ⚛️ REACT
 * 🌊 TAILWIND
 * 💻HTML, CSS, JS
-
-
 - 🔭 I’m currently working on My own itinerary App  
 - 🌱 I’m currently learning PRISMA / FRAMER MOTION / TYPESCRIPT 
 
