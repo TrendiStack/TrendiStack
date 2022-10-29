@@ -1,11 +1,15 @@
-### Hi there 👋, Terel Phillips
-#### Front-End Developer
+# Hi there 👋, Terel Phillips
+## Front-End Developer
 ![Front-End Developer](https://pbs.twimg.com/profile_banners/1024973460/1457492524/1500x500)
 
 I'm Terel from Toronto, and I'm a software developer with a front-end focus. I find great enjoyment in creating scalable and beautiful applications. I work with technologies like React, NextJs and Tailwind. I also like to dabble in web design and build accessible UI and UX. You can visit my portfolio at terel-phillips.ca.
 
+### Skills and Experience
 
-Skills: REACT / NEXTJS/ JS / TAILWIND / TAILWINDCSS
+* ⚛️ REACT
+* 🌊 TAILWIND
+* 💻HTML, CSS, JS
+
 
 - 🔭 I’m currently working on My own itinerary App  
 - 🌱 I’m currently learning PRISMA / FRAMER MOTION / TYPESCRIPT 
