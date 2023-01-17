@@ -2,7 +2,7 @@
 ## Front-End Developer
 ![Front-End Developer](https://pbs.twimg.com/profile_banners/1024973460/1457492524/1500x500)
 
-I'm Terel from Toronto, and I'm a software developer with a front-end focus. I find great enjoyment in creating scalable and beautiful applications. I work with technologies like React, NextJs and Tailwind. I also like to dabble in web design and build accessible UI and UX. You can visit my portfolio at terel-phillips.ca.
+Hello, my name is Terel and I am a software developer from Toronto with a passion for creating scalable and visually appealing applications. I specialize in front-end development using technologies such as React, NextJs, and Tailwind. In addition to my technical skills, I am also a web designer and prioritize creating accessible UI and UX. My goal is to constantly improve my skills and deliver high-quality work. You can view my portfolio at terel-phillips.ca and see some of my past projects.
 
 ### Skills and Experience
 
