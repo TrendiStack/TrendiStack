@@ -10,7 +10,7 @@ Hello, my name is Terel and I am a software developer from Toronto with a passio
 * 🌊 TAILWIND
 * 💻HTML, CSS, JS
 - 🔭 I’m currently working on My own itinerary App  
-- 🌱 I’m currently learning PRISMA / FRAMER MOTION / TYPESCRIPT 
+- 🌱 I’m currently learning PYTHON | TYPESCRIPT | DJANGO | FLASK
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/uzistacks)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/uzistacks)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/terel-phillips-9a8038222/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://terel-phillips.ca/)  
