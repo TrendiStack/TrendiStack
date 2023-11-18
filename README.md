@@ -1,4 +1,4 @@
-# Hi there 👋, Terel Phillips
+# Hi there 👋, I'm Terel Phillips
 ## Front-End Developer
 ![Front-End Developer](https://pbs.twimg.com/profile_banners/1024973460/1457492524/1500x500)
 
